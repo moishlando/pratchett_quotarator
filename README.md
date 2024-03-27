@@ -13,3 +13,8 @@ Can be manually refreshed by pushing the rotary.
 Quotes that do not fit on the screen can be scrolled through by turning the rotary.
 
 Running off a rpi pico (h), written in micropython.
+
+
+
+https://github.com/moishlando/pratchett_quotarator/assets/120226180/8e995091-8203-4314-9a62-db6cfb368569
+
