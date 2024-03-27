@@ -1,6 +1,5 @@
 import framebuf
 
-# Essential register definitions for initialization
 SET_DISP = 0xAE
 SET_MEM_ADDR = 0x20
 SET_DISP_START_LINE = 0x40
