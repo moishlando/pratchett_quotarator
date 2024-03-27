@@ -1,5 +1,3 @@
-# pratchett_quotarator
-
 ![20240327_192857](https://github.com/moishlando/pratchett_quotarator/assets/120226180/319fa6ea-2dc1-47a1-8f6b-4bfd4b7eb0a3)
 
 # Pratchett Quotarator
