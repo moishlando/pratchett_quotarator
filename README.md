@@ -5,6 +5,11 @@
 Pratchett Quotarator
 
 Contains over 500 pratchett quotes I've highlighted while reading through nearly the entire discworld series.
+
 Displays a random quote on the SSD1306 display; refreshes every several hours.
+
 Can be manually refreshed by pushing the rotary.
+
 Quotes that do not fit on the screen can be scrolled through by turning the rotary.
+
+Running off a rpi pico (h), written in micropython.
