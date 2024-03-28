@@ -1,3 +1,5 @@
+# Based on 	https://github.com/miketeachman/micropython-rotary/blob/master/rotary_irq_rp2.py
+
 from machine import Pin
 from micropython import const
 from time import sleep
