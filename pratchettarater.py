@@ -22,7 +22,7 @@ def page_to_bytes(page, cmap):
         index += 6
     return bytes
 
-class Chatzkel:
+class Pratchettarater:
     def __init__(self, display, rotary, quotes, cmap):
         self.display = display
         self.rotary = rotary
