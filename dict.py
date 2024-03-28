@@ -1,3 +1,5 @@
+# Somewhat based on https://www.ccsinfo.com/forum/viewtopic.php?p=34689
+
 character_map = {
   " ": bytearray(b'\x00\x00\x00\x00\x00\x00'),
   "!": bytearray(b'\x00\x00_\x00\x00\x00'),
