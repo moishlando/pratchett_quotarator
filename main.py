@@ -3,7 +3,7 @@ from machine import Pin, I2C
 from string_list import my_list
 from dict import character_map
 from rotary import RotaryEncoder
-from chatzkel import Chatzkel
+from pratchettarater import Pratchettarater
 
 
 
@@ -21,4 +21,4 @@ rotary = RotaryEncoder(pin_clk=ROTARY_CLK_PIN, pin_dt=ROTARY_DT_PIN, pin_sw=ROTA
 
 
 
-chatzkel = Chatzkel(display, rotary, my_list, character_map)
+pratchettarater = Pratchettarater(display, rotary, my_list, character_map)
