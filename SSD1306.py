@@ -1,3 +1,5 @@
+# Based on the default micropython SSD1306 library; 	https://github.com/micropython/micropython/blob/4d9e657f0ee881f4a41093ab89ec91d03613744d/drivers/display/ssd1306.py
+
 import framebuf
 
 SET_DISP = 0xAE
